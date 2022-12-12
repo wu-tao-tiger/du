@@ -1,0 +1,9 @@
+/run/initialize
+
+/gps/particle e-
+/gps/position 5 5 5 um
+/gps/ang/type iso
+/gps/energy 10 keV
+
+
+/run/beamOn 1000
